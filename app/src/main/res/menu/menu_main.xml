@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/customers"
+        android:title="Gestiones"
+        android:icon="@drawable/menu_customer"/>
+
+    <item
+        android:id="@+id/reports"
+        android:title="Reportes"
+        android:icon="@drawable/menu_reports"/>
+
+    <item
+        android:id="@+id/infoAes"
+        android:title="Noticias"
+        android:icon="@drawable/menu_info"/>
+
+    <item
+        android:id="@+id/account"
+        android:title="Mi cuenta"
+        android:icon="@drawable/menu_user"/>
+
+</menu>

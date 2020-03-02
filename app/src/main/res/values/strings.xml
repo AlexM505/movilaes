@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movil AES</string>
+
+    <string name="txt_register">Bienvenido a AES, para registrarte necesitamos saber algunos datos, debes completar los campos con datos reales, para que puedas obtener los resultados de acuerdo a tu numero de NIC</string>
+
+
+</resources>
